@@ -1,0 +1,13 @@
+{
+   "name":"”Tim”",
+   "age":24,
+   "isStudent":true,
+   "scores":[
+      {
+         "Math":73.50
+      },
+      {
+         "Programming":80.00
+      }
+   ]
+}
