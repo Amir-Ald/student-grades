@@ -1,12 +1,3 @@
-/*
-Amirreza Allahdad
-
-Final Exam
-
-MAP524
-
-April 23, 2021
- */
 
 
 package com.example.finalexam;
